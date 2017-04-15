@@ -1,6 +1,7 @@
 # ROOT Insurance Code Sample
 
 ## Approach To Solving Problem
+1. The first step in my problem solving is to set up the git repository. I am including the problem statement along with a general outline for the README. I restate the deliverables and specifications to ensure I have a full grasp of the task at hand, and use the README as a path forward.
 
 ## Testing
 
